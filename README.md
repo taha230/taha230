@@ -122,8 +122,8 @@ I help businesses streamline processes, extract insights from data, and build sc
       <br>NLP
     </td>
     <td align="center" width="85">
-      <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="icon" width="53" height="53" />
-      <br>Pandas
+      <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="53" height="53" />
+      <br>Bash
     </td>
     <td align="center" width="85">
       <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="53" height="53" />
