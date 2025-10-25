@@ -126,8 +126,8 @@ I help businesses streamline processes, extract insights from data, and build sc
       <br>Pandas
     </td>
     <td align="center" width="85">
-      <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="icon" width="53" height="53" />
-      <br>Numpy
+      <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="53" height="53" />
+      <br>Kafka
     </td>
     <td align="center" width="85">
       <img src="https://skillicons.dev/icons?i=rabbitmq" alt="icon" width="53" height="53" />
