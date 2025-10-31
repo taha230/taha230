@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💦 Backend Developer | Python | Django | Web Scraping | AI Integration 💦</h2>
+  <h2> Backend Developer | Python | Django | Web Scraping | AI Integration </h2>
 </div>
 
 
