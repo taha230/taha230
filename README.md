@@ -67,8 +67,8 @@ I help businesses streamline processes, extract insights from data, and build sc
       <br>Postgres
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="53" height="53" />
-      <br>SQLite
+      <img src="https://skillicons.dev/icons?i=matlab" alt="icon" width="53" height="53" />
+      <br>Matlab
     </td>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="53" height="53" />
